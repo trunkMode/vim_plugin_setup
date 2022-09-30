@@ -67,6 +67,7 @@ nnoremap <C-y> :TlistToggle<CR>
 "nnoremap <silent> <F8> :TlistToggle<CR>
 "
 "------ cscope ------------------
+cs add cscope.out
 "Refer: https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
 "map key under normal mode
 "You can insert the result of a Vim expression in insert mode using the <C-R>=command
